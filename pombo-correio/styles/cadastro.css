@@ -1,0 +1,16 @@
+.container_slogan{
+    display: flex;
+    flex-direction: column;
+}
+
+.imagem_pombo{
+    margin: 100px;
+    width: 120%;
+}
+
+.slogan{
+    font-size: 24px;
+    color: #2d3869;
+    font-weight: bold;
+    text-align: center;
+}
